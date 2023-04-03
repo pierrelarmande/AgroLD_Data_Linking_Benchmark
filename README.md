@@ -1,7 +1,7 @@
 # AgroLD_Data_Linking_Benchmark
 >  ***Please cite :*** Venkatesan A, Tagny Ngompe G, Hassouni NE, Chentli I, Guignon V, et al. (2018) Agronomic Linked Data (AgroLD): A knowledge-based system to enable integrative biology in agronomy. PLOS ONE 13(11): e0198270. https://doi.org/10.1371/journal.pone.0198270 
 >
->> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4694518.svg)](https://doi.org/10.5281/zenodo.4694518)
+>> From the orignial datasets : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4694518.svg)](https://doi.org/10.5281/zenodo.4694518)
 ## 2022
 
 * Datasource 1 : [gramene_Oryza_sativa_japonica_genes.ttl](https://github.com/pierrelarmande/AgroLD_Data_Linking_Benchmark/blob/main/gramene_Oryza_sativa_japonica_genes.ttl.tar.gz)
