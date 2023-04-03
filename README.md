@@ -1,5 +1,5 @@
 # AgroLD_Data_Linking_Benchmark
-* Please cite : Venkatesan A, Tagny Ngompe G, Hassouni NE, Chentli I, Guignon V, et al. (2018) Agronomic Linked Data (AgroLD): A knowledge-based system to enable integrative biology in agronomy. PLOS ONE 13(11): e0198270. https://doi.org/10.1371/journal.pone.0198270 
+>  ***Please cite :*** Venkatesan A, Tagny Ngompe G, Hassouni NE, Chentli I, Guignon V, et al. (2018) Agronomic Linked Data (AgroLD): A knowledge-based system to enable integrative biology in agronomy. PLOS ONE 13(11): e0198270. https://doi.org/10.1371/journal.pone.0198270 
 
 ## 2022
 
