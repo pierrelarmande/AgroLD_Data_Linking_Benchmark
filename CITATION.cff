@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Pierre
+  given-names: Larmande
+orcid: https://orcid.org/0000-0002-2923-9790
+title: AgroLD_Data_Linking_Benchmark
+version: first-main-release
+date-released: 2024-06-17
+                            
